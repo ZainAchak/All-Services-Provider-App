@@ -25,6 +25,9 @@ All service provider is an android application based on Machine learning recomme
 -	SQLLITE3
 
 
+#### NOTE: If the file does'nt work for you download it from here:
+https://www.mediafire.com/file/sr8wd1tledr0gsx/ServiceProvider03_03_2019.rar/file
+
 ### Setting up Firebase 
 First, we must create our database. As this project deal with data and database is most vital component of our project. Before creating database, we setup our Firebase.
 In Firebase there are two types of database types Cloud Firebase and Real-time Database. So now we have to choose among. So, for this project we’ll go for Real-time Database.
@@ -173,7 +176,3 @@ User interfaces have their own significance. It is basically a bridge between us
 
 ![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/3.PNG)
 
-
-
-If the file does'nt work for you download it from here:
-https://www.mediafire.com/file/sr8wd1tledr0gsx/ServiceProvider03_03_2019.rar/file
