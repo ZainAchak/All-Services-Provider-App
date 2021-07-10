@@ -163,23 +163,15 @@ User interfaces have their own significance. It is basically a bridge between us
 
 ### Django Local Server and RestFulAPI
 
-![alt text]()
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/1.PNG)
 
 ### Installing Dependencies
 
-![alt text]()
-
-### Setting Django-Admin
-
-![alt text]()
-
-### Setup RestFulAPI Dependencies
-
-![alt text]()
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/2.PNG)
 
 ### Loading Trained Modules by RestFulAPI
 
-![alt text]()
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/3.PNG)
 
 
 
