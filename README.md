@@ -1,6 +1,9 @@
 # All Services Provider App
 All service provider is an android application based on Machine learning recommendation technique Matric Factorization 
 
+
+![alt text]()
+
 ## Requirements:
 -	Visual Code
 -	Android Studio
@@ -103,41 +106,80 @@ User interfaces have their own significance. It is basically a bridge between us
 
 ### Customer and Provider Registration
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.21%20PM.jpeg)
+
 ### Customer Main activity
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.22%20PM.jpeg)
 
 ### Customer History Filter
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.23%20PM.jpeg)
+
 ### Provider Recommendation List
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.23%20PM%20(1).jpeg)
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.24%20PM.jpeg)
 
 ### Provider Profile Activity
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.25%20PM%20(1).jpeg)
+
 ### Chat Box
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.25%20PM.jpeg)
 
 ### Hire or Reject Provider
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.27%20PM.jpeg)
+
 ### Provider Reach
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.26%20PM.jpeg)
 
 ### Work Done and Feedback
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.27%20PM.jpeg)
+
 ### Provider Registration
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.27%20PM%20(1).jpeg)
 
 ### Provider Main Activity
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.28%20PM.jpeg)
+
 ### Receive Customer Request
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.29%20PM%20(1).jpeg)
 
 ### Chat Box
 
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.30%20PM.jpeg)
+
 ### Google Map and Reached Location
+
+![alt text](https://github.com/ZainAchak/All-Services-Provider-App/blob/main/Images/WhatsApp%20Image%202021-07-10%20at%205.47.29%20PM.jpeg)
 
 ### Django Local Server and RestFulAPI
 
+![alt text]()
+
 ### Installing Dependencies
+
+![alt text]()
 
 ### Setting Django-Admin
 
+![alt text]()
+
 ### Setup RestFulAPI Dependencies
 
+![alt text]()
+
 ### Loading Trained Modules by RestFulAPI
+
+![alt text]()
 
 
 
